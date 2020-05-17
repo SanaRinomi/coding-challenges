@@ -1,6 +1,6 @@
 # [CodinGame](https://www.codingame.com/) Challenges
 
-## [Spring Challenge 2020](./SSpringChallenge2020.js)
+## [Spring Challenge 2020](./SpringChallenge2020.js)
 
 **Dates:** May 7th to May 18th
 
